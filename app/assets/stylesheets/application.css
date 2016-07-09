@@ -137,3 +137,22 @@ footer{
 	width:100%;
 }
 
+.box{	
+	margin-top:50px;
+	background:#3CB371;
+	/*border-top:solid px gray;
+	border-bottom:;*/
+	text-align:center; 
+}
+
+.box h2{
+	color:white;
+	
+}
+
+.field{
+	color:white;
+}
+
+
+
